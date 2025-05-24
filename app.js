@@ -63,3 +63,6 @@ function reinicarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled',true);
 }
+
+
+// quem ta lendo é gay
